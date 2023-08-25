@@ -32,6 +32,10 @@ public:
             }
         }
     }
+    void deleteFromHeap()
+    {
+        
+    }
     void print()
     {
         for (int i = 1; i < size; i++)
